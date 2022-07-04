@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nupp {
+  background-color: green;
+  border: 2px dotted;
+  color: lightgrey;
+}
+
+.nupp:hover {
+  height: 100px;
+}
+
+.nupp:active {
+  cursor: grab;
+}
+
+.sinine-tekst:hover {
+color: blue;
+font-size:24px;
+font-style: italic;
+}
+
+.pilt {
+  height: 200px;
+  float: right;
+}
+
+body {
+  background-color: beige;
+}
+
+.h1-esimene {
+  color: rgb(138, 138, 30);
+  font-weight:bold;
+  text-decoration: underline dashed;
+  font-style:italic;
+}
